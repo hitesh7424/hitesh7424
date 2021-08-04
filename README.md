@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitesh-04
+- 👋 Hi, I’m Hitesh
 - 👀 I’m interested in programming, ethical hacking, etc.
 - 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on _______.
