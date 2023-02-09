@@ -1,6 +1,9 @@
 > हर हर महादेव 
 
 
+![हर हर महादेव](./mahadev-tilak-clipart.jpg)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/HiteshKrGaurav/count.svg)
 
 <!---
