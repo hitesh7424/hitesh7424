@@ -2,7 +2,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/HiteshKrGaurav/count.svg)
+
 
 <!---
 hitesh-04/hitesh-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
